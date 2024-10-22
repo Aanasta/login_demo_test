@@ -1,4 +1,4 @@
-#Login Page Demo Test
+# Login Page Demo Test
 
 Application under test: Login System (https://circlek-public.github.io/cki-service-recruitment-task/)
 
